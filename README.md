@@ -71,7 +71,7 @@ Generate plots:
 | Llama 3.2  | 151 (43.3%) | 171     | 27      | 43.3%    |
 | Mistral    | 155 (44.4%) | 161     | 33      | 44.4%    |
 
-### Author
+## 🎓 Author
 **Jelena Ilić Vulićević**
 
 Master of Electrical and Computer Engineering | Software Engineer
