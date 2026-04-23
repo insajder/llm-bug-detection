@@ -3,7 +3,7 @@ import json
 def get_key_words(buggy_lines, fixed_lines):
     buggy_words = set()
     fixed_words = set()
-    COMMON_WORDS = {"the", "a", "is", "in", "to", "and", "self", "return"} # Skraćeno za primer
+    COMMON_WORDS = {"the", "a", "is", "in", "to", "and", "self", "return"}
     
     for line in buggy_lines:
         for word in line.split():
