@@ -1,4 +1,4 @@
-# LLM-Based Bug Detection: A Comparative Study (LLaMA 3.2 vs. Mistral)
+# LLM-Based Bug Detection: A Comparative Study (LLaMA 3.2 vs. Mistral) 
 
 This repository contains the source code, experimental data, and results for a research project focused on automated bug detection using local Large Language Models (LLMs). The study evaluates and compares the performance of **LLaMA 3.2** and **Mistral** in identifying software defects at the function level.
 
@@ -73,3 +73,4 @@ Generate plots:
 
 ### Author
 Jelena Ilić Vulićević
+
