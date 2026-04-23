@@ -72,5 +72,6 @@ Generate plots:
 | Mistral    | 155 (44.4%) | 161     | 33      | 44.4%    |
 
 ### Author
-Jelena Ilić Vulićević
+**Jelena Ilić Vulićević**
+Master of Electrical and Computer Engineering | Software Engineer
 
