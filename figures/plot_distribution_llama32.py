@@ -15,7 +15,7 @@ plt.rcParams.update({
 base_dir = os.path.dirname(os.path.dirname(__file__))
 json_path = os.path.join(base_dir, "results_full.json")
 model_name = "llama3.2"
-output_path = os.path.join(os.path.dirname(__file__), f"plot_distribution_{model_name}.png")
+output_path = os.path.join(os.path.dirname(__file__), f"plot_distribution_llama32.png")
 
 with open(json_path) as f:
     results = json.load(f)
