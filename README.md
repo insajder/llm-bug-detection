@@ -76,3 +76,18 @@ Generate plots:
 
 Master of Electrical and Computer Engineering | Software Engineer
 
+
+## Citation
+
+If you use this research or code in your work, please cite it as follows:
+
+```bibtex
+@misc{ilicvulicevic2026empirical,
+      title={An Empirical Evaluation of Locally Deployed LLMs for Bug Detection in Python Code}, 
+      author={Jelena Ilić Vulićević},
+      year={2026},
+      eprint={2604.23361},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={[https://arxiv.org/abs/2604.23361](https://arxiv.org/abs/2604.23361)}
+}
